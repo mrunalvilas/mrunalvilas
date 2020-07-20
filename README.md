@@ -1,8 +1,8 @@
- <div class="container" backgroundcolor="pink">
  #**Hello This is Mrunal padalkar👋**
- ##I am an Undergraduate student of Mumbai University
-- ###🔭 I’m currently working on ...Django and React
-- ###🌱 I’m currently learning ...FrontEnd Development
-- ###📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)
-</div>
+ *I am an Undergraduate student of Mumbai University*:mortar_board:
+- ##:books: I'm Third Year Student Of Computer Engineering
+- ##🔭 I’m currently working on ...:computer:Django and React
+- ##🌱 I’m currently learning ...FrontEnd Development
+- ##📫 How to reach me: :incoming_envelope:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :pencil2:[Email](mrunalvilas@gmail.com)
+
 
