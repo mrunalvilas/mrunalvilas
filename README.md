@@ -1,4 +1,4 @@
- <img src="./story_1583666764654.jpg" height=500 />
+ <img src="https://github.com/mrunalvilas/mrunalvilas/issues/1" height=500 />
  
  **Hello This is Mrunal padalkar👋**
  
