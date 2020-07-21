@@ -1,4 +1,4 @@
- <img src="https://user-images.githubusercontent.com/60320511/88051509-5ae8b100-cb76-11ea-996c-a18bdf9653ef.jpg" height=500 />
+ <img src="https://user-images.githubusercontent.com/60320511/88051509-5ae8b100-cb76-11ea-996c-a18bdf9653ef.jpg" height=300 />
  
  **Hello This is Mrunal padalkar👋**
  
