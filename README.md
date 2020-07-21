@@ -1,4 +1,4 @@
- <img src="story_1583666764654.jpg" height=500 />
+ <img src="./story_1583666764654.jpg" height=500 />
  
  **Hello This is Mrunal padalkar👋**
  
