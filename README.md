@@ -7,5 +7,5 @@
 - :books: I'm Third Year Student Of Computer Engineering
 - 🔭 I’m currently working on ...:computer:Django and React
 - 🌱 I’m currently learning ...FrontEnd Development And Graphic Designing
-- 📫 How to reach me: :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :pencil2:[Email](mrunalvilas@gmail.com)
+- 📫 How to reach me: :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :pencil2:[Email](mrunalvilas@gmail.com)  :page_with_curl:[Resume](https://github.com/mrunalvilas/mrunalvilas/files/4986919/MrunalPadalkar_InternshalaResume.pdf)
 
