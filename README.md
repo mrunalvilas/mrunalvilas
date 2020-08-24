@@ -19,6 +19,6 @@
 - 🌱 I’m currently learning ...Fullstack Development And Graphic Designing
  </p><hr />
  
- :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :envelope:[Email](mrunalvilas@gmail.com)   :page_with_curl:[Resume](mrunalvilas.github.io) :books:[StackOverflow](https://stackoverflow.com/users/13986698/mrunal-padalkar) :name_badge:[LeetCode](https://leetcode.com/mrunalpadalkar/)
+ :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :envelope:[Email](mrunalvilas@gmail.com)   :page_with_curl:[Resume](https://mrunalvilas.github.io/) :books:[StackOverflow](https://stackoverflow.com/users/13986698/mrunal-padalkar) :name_badge:[LeetCode](https://leetcode.com/mrunalpadalkar/)
 
 <hr />
