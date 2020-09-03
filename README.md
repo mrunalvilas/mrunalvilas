@@ -14,7 +14,7 @@
  *I am an Undergraduate student of Mumbai University*:mortar_board:
  </p>
  <p align="center">
-- :books: I'm Third Year Student Of Computer Engineering
+- :books: Motivated software engineer aiming to grow JavaScript knowledge by programming with JavaScript in an enterprise-level application.
  </p>
   <p align="center">
 - 🔭 I’m currently working on ...:computer:Django and React
