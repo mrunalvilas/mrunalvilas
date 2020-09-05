@@ -8,16 +8,16 @@
 </p>
   
  <p align="center">
- **Hello This is Mrunal padalkar👋**
+ <b>Hello This is Mrunal padalkar👋</b>
  </p>
  <p align="center">
- *I am an Undergraduate student of Mumbai University*:mortar_board:
+ <strong>I am an Undergraduate student of Mumbai University</strong>:mortar_board:
  </p>
  <p align="center">
 - Motivated software engineer aiming to grow Web Development knowledge by programming with JavaScript, Bootstrap, React and python in an enterprise-level application.
  </p>
   <p align="center">
-- 🔭 I’m currently working on ...:computer:Django and React
+ - 🔭 I’m currently working on ...:computer:<b>Django</b> and <b>React</b>
  </p>
   <p align="center">
 - 🌱 I’m currently learning ...Fullstack Development And Graphic Designing
