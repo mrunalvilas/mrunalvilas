@@ -14,7 +14,7 @@
  *I am an Undergraduate student of Mumbai University*:mortar_board:
  </p>
  <p align="center">
-- :books: Motivated software engineer aiming to grow Web Development knowledge by programming with JavaScript, Bootstrap, React and python in an enterprise-level application.
+- Motivated software engineer aiming to grow Web Development knowledge by programming with JavaScript, Bootstrap, React and python in an enterprise-level application.
  </p>
   <p align="center">
 - 🔭 I’m currently working on ...:computer:Django and React
