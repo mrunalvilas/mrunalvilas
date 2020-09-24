@@ -13,7 +13,7 @@
  <strong>I am an Undergraduate student of Mumbai University</strong>:mortar_board:
  </p>
  <p align="center">
-- Motivated software engineer aiming to grow Web Development knowledge by programming with JavaScript, Bootstrap, React and python in an enterprise-level application.
+- I am a Motivated software engineer aiming to grow Web Development knowledge by programming with JavaScript, Bootstrap, React and python in an enterprise-level application.I loves to design experiences.
  </p>
   <p align="center">
  - 🔭 I’m currently working on ...:computer:<b>Django</b> and <b>React</b>
