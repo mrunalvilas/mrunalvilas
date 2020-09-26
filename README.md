@@ -22,5 +22,5 @@
 - 🌱 I’m currently learning ...Fullstack Development And Graphic Designing
  </p><hr />
  
- :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :envelope:[Email](mrunalvilas@gmail.com)   :page_with_curl:[Resume](https://mrunalvilas.github.io/)
+ :speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  :envelope:[Email](mrunalvilas@gmail.com)   :page_with_curl:[Resume](https://github.com/mrunalvilas/mrunalvilas/files/5287047/Mrunal.Padalkar.pdf)
 <hr />
