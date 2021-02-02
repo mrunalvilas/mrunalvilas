@@ -7,7 +7,7 @@
 
  ### :cake: places you can find me 
 
-|:speech_balloon:[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  | :envelope:[Email](mrunalvilas@gmail.com) |
+|[LinkedIn](https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/)  | [Email](mrunalvilas@gmail.com) |
 | ------------- | ------------- |
 
 
