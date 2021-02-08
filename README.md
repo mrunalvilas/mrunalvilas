@@ -7,7 +7,7 @@
 
  ### :cake: places you can find me 
 
-|<a href="https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>   | <a href="mrunalvilas@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width=40px height=40px title="source: imgur.com" /></a> |
+|<a href="https://www.linkedin.com/in/mrunal-padalkar-b64a3b19b/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a>   | <a href="mailto: mrunalvilas@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width=40px height=40px title="source: imgur.com" /></a> |
 | ------------- | ------------- |
 
 
